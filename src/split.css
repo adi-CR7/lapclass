@@ -1,0 +1,27 @@
+.maindiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 50%;
+    /* transform: translate(-50%, -50%); */
+    margin-bottom: 20px;
+    /* border: 1px solid black; */
+    position: relative;
+    top: 50px;
+    left: 25%;
+  }
+  .item1 {
+    margin-left: 200px;
+    width: 100px;
+    /* border: 1px solid blue; */
+  }
+  
+  p {
+    background-color: orange;
+    color: black;
+  }
+  .diff {
+    background-color: cornflowerblue;
+  }
